@@ -40,3 +40,9 @@ To deploy this project run
 
 **Server:** twitter API
 
+
+## 🔗 Links
+
+[![linkedin](www.linkedin.com/in/mayibongwe-bafoly-a976b8218)](https://www.linkedin.com/)
+
+
